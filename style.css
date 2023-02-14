@@ -1,6 +1,5 @@
 .hero{
     background-image: url(./images/desk-header\ 1.png);
-    position: absolute;
 width: 1440px;
 height: 700px;
 left: 1px;
@@ -134,7 +133,7 @@ color: #FFFFFF;
 }
 
 .vilian{
-   
+ background-image: url(./images/Color_Fill1.png);  
 width: 1440px;
 height: 1210px;
 left: 0px;
@@ -173,7 +172,7 @@ top: 4px;
 
 }
 
-.h3-4-agent1{
+.h2-2-agent1{
    
 width: 135px;
 height: 17px;
@@ -184,6 +183,188 @@ font-family: 'Montserrat';
 font-style: normal;
 font-weight: 700;
 font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+display: flex;
+align-items: flex-end;
+text-align: center;
+
+color: #333333;
+
+}
+
+.h3-4-agent1{
+width: 224px;
+height: 32px;
+left: -15px;
+top: 170px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 16px;
+display: flex;
+align-items: flex-end;
+text-align: center;
+
+color: #666666;
+
+}
+
+.p2-agent1{
+width: 19px;
+height: 20px;
+left: 132px;
+top: 96px;
+
+background: #FFFFFF;
+
+}
+
+.p3-agent1{
+    width: 35px;
+    height: 35px;
+    left: 124px;
+    top: 89px;
+}
+
+.p4-agent2{
+width: 120px;
+height: 120px;
+left: 46px;
+top: 4px;
+
+background: url(desk-2.png);
+}
+
+.h2-3-agent2{
+width: 139px;
+height: 17px;
+left: 37px;
+top: 137px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+/* identical to box height */
+
+display: flex;
+align-items: flex-end;
+text-align: center;
+
+color: #333333;
+
+}
+
+.h3-5-agent2{
+width: 241px;
+height: 49px;
+left: -15px;
+top: 155px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 16px;
+display: flex;
+align-items: flex-end;
+text-align: center;
+
+color: #666666;
+}
+
+.p5-agent2{
+width: 35px;
+height: 35px;
+left: 133px;
+top: 89px;
+
+}
+
+.p6-agent3{
+width: 120px;
+height: 120px;
+left: 49px;
+top: 4px;
+
+background: url(desk-3.png);
+}
+.h2-4-agent3{
+width: 125.02px;
+height: 17px;
+left: 46.99px;
+top: 137px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 14.0112px;
+line-height: 17px;
+/* identical to box height */
+
+display: flex;
+align-items: flex-end;
+text-align: center;
+
+color: #333333;
+
+}
+
+.h3-6-agent3{
+width: 247.02px;
+height: 65px;
+left: -15.01px;
+top: 170px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 300;
+font-size: 14.0112px;
+line-height: 16px;
+display: flex;
+align-items: flex-end;
+text-align: center;
+
+color: #666666;
+}
+
+.p7-agent3{
+width: 15px;
+height: 18px;
+left: 147px;
+top: 98px;
+}
+
+.p8-agent3{
+width: 35px;
+height: 35px;
+left: 136px;
+top: 89px;
+
+}
+
+.p9-agent4{
+width: 120px;
+height: 120px;
+left: 37px;
+top: 4px;
+}
+
+.h2-5-agent4{
+width: 136.02px;
+height: 17px;
+left: 28.99px;
+top: 140px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 14.0112px;
 line-height: 17px;
 /* identical to box height */
 
