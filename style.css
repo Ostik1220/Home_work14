@@ -13,12 +13,11 @@ font-style: normal;
 font-weight: 700;
 font-size: 52px;
 line-height: 63px;
-display: flex;
-align-items: flex-end;
 text-align: center;
 text-transform: uppercase;
 
-color: #FFFFFF;
+
+color: #fff4f4;
 }
 
 .h2-1{
@@ -30,8 +29,6 @@ font-style: normal;
 font-weight: 300;
 font-size: 24px;
 line-height: 28px;
-display: flex;
-align-items: flex-end;
 text-align: center;
 
 color: #FFFFFF;
@@ -47,8 +44,6 @@ font-style: normal;
 font-weight: 700;
 font-size: 20px;
 line-height: 24px;
-display: flex;
-align-items: flex-end;
 text-align: center;
 letter-spacing: 1px;
 text-transform: uppercase;
@@ -67,8 +62,6 @@ font-size: 14px;
 line-height: 17px;
 /* identical to box height */
 
-display: flex;
-align-items: flex-end;
 text-align: center;
 
 color: #fff;
@@ -84,8 +77,6 @@ font-size: 14px;
 line-height: 17px;
 /* identical to box height */
 
-display: flex;
-align-items: flex-end;
 text-align: center;
 
 color: #FFFFFF;
@@ -128,8 +119,6 @@ background: #000000;
     line-height: 27px;
     /* identical to box height */
     
-    display: flex;
-    align-items: flex-end;
     text-align: center;
     
     color: #333333;
@@ -153,8 +142,6 @@ font-size: 14px;
 line-height: 17px;
 /* identical to box height */
 
-display: flex;
-align-items: flex-end;
 text-align: center;
 
 color: #333333;
@@ -168,8 +155,6 @@ font-style: normal;
 font-weight: 300;
 font-size: 14px;
 line-height: 16px;
-display: flex;
-align-items: flex-end;
 text-align: center;
 
 color: #666666;
@@ -214,8 +199,6 @@ font-size: 14px;
 line-height: 17px;
 /* identical to box height */
 
-display: flex;
-align-items: flex-end;
 text-align: center;
 
 color: #333333;
@@ -229,8 +212,7 @@ font-style: normal;
 font-weight: 300;
 font-size: 14px;
 line-height: 16px;
-display: flex;
-align-items: flex-end;
+
 text-align: center;
 
 color: #666666;
@@ -261,8 +243,7 @@ font-size: 14.0112px;
 line-height: 17px;
 /* identical to box height */
 
-display: flex;
-align-items: flex-end;
+
 text-align: center;
 
 color: #333333;
@@ -279,8 +260,6 @@ font-style: normal;
 font-weight: 300;
 font-size: 14.0112px;
 line-height: 16px;
-display: flex;
-align-items: flex-end;
 text-align: center;
 
 color: #666666;
@@ -315,8 +294,6 @@ font-size: 14.0112px;
 line-height: 17px;
 /* identical to box height */
 
-display: flex;
-align-items: flex-end;
 text-align: center;
 
 color: #333333;
@@ -329,8 +306,6 @@ font-style: normal;
 font-weight: 300;
 font-size: 14.0112px;
 line-height: 16px;
-display: flex;
-align-items: flex-end;
 text-align: center;
 
 color: #666666;
@@ -346,4 +321,8 @@ height: 35px;
 width: 19px;
 height: 18px;
 
+}
+
+.agents{
+    display: flex;
 }
