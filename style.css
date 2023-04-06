@@ -52,19 +52,23 @@ color: #ffffff;
 }
 
 .h3-2{
-  
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    display: flex;
+    align-items: center;
+    text-align: left;
+    color: #FFFFFF;
+    background: rgba(26, 25, 21, 0.0001);
+    border: 2px solid #FFFFFF;
+    height: 39px;
+    width: 93px;
+    border-radius: 30px;
+    justify-content: center;
 
 
-font-family: 'Montserrat';
-font-style: normal;
-font-weight: 700;
-font-size: 14px;
-line-height: 17px;
-/* identical to box height */
-
-text-align: center;
-
-color: #fff;
 }
 
 .h3-3{
@@ -132,192 +136,27 @@ background: #ffffff;
     
 }
 
-.p1-agent1{
 
-    width: 120px;
-    height: 120px;
-    margin-left: 300px;
-    margin-top: 35px;
-    margin-right: 120px;
-    margin-bottom: 16px;
 
-}
 
-.h2-2-agent1{
+.partners-name{
    
-
-font-family: 'Montserrat';
-font-style: normal;
-font-weight: 700;
-font-size: 14px;
-line-height: 17px;
-/* identical to box height */
-margin-left: 293px;
-margin-right: 103px;
-margin-bottom: 13px;
-
-
-text-align: center;
-
-color: #333333;
-
-}
-
-.h3-4-agent1{
-
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 300;
-font-size: 14px;
-line-height: 16px;
-text-align: center;
-margin-left: 248px;
-margin-bottom: 185px;
-margin-right: 7px;
-
-color: #666666;
-
-}
-
-
-.p4-agent2{
-width: 120px;
-height: 120px;
-margin-left: 120px;
-    margin-top: 35px;
-    margin-right: 120px;
+    margin-top: 16px;
     margin-bottom: 13px;
-
-
-background: url(desk-2.png);
-}
-
-
-
-.h2-3-agent2{
-
-
-font-family: 'Montserrat';
-font-style: normal;
-font-weight: 700;
-font-size: 14px;
+    font-family: 'Montserrat';
+    font-weight: 700;
+    font-size: 14.0112px;
 line-height: 17px;
-/* identical to box height */
-margin-left: 103px;
-margin-right: 107.99px;
-margin-bottom: 1px;
-
-text-align: center;
-
 color: #333333;
-
-}
-
-.h3-5-agent2{
-
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 300;
-font-size: 14px;
-line-height: 16px;
-
-text-align: center;
-
-color: #666666;
 }
 
 
 
-.p6-agent3{
-width: 120px;
-height: 120px;
-margin-left: 120px;
-    margin-top: 35px;
-    margin-right: 120px;
-    margin-bottom: 13px;
-
-
-background: url(desk-3.png);
-}
-.h2-4-agent3{
-width: 125.02px;
-height: 17px;
-
-
-font-family: 'Montserrat';
-font-style: normal;
-font-weight: 700;
-font-size: 14.0112px;
-line-height: 17px;
-/* identical to box height */
-margin-right: 108.98px;
-margin-bottom: 16px;
-margin-left: 107.99px;
-
-
-text-align: center;
-
-color: #333333;
-
-}
-
-.h3-6-agent3{
-width: 247.02px;
-height: 65px;
-
-
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 300;
+.partners-text{
+    font-family: 'Roboto';
+    font-weight: 300;
 font-size: 14.0112px;
 line-height: 16px;
-text-align: center;
-
-color: #666666;
-}
-
-
-
-
-
-.p9-agent4{
-width: 120px;
-height: 120px;
-margin-left: 120px;
-    margin-top: 35px;
-    margin-right: 300px;
-    margin-bottom: 16px;
-
-}
-
-.h2-5-agent4{
-width: 136.02px;
-height: 17px;
-
-font-family: 'Montserrat';
-font-style: normal;
-font-weight: 700;
-font-size: 14.0112px;
-line-height: 17px;
-/* identical to box height */
-margin-right: 291.99px;
-margin-bottom: 13px;
-margin-left: 108.99;
-
-text-align: center;
-
-color: #333333;
-
-}
-
-.h3-7-agent4{
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 300;
-font-size: 14.0112px;
-line-height: 16px;
-text-align: center;
-
 color: #666666;
 
 }
@@ -325,4 +164,35 @@ color: #666666;
 
 .agents{
     display: flex;
+    justify-content: center;
+    list-style: none;
+    gap: 20px;
+}
+
+.agents li{
+text-align: center;
+
+
+}
+
+.B-3{
+    display: block;
+width: 228px;
+height: 43px;
+margin-left: auto;
+margin-right: auto;
+
+background: #FF4E50;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+border: none;
+border-radius: 30px;
+text-align: center;
+
+color: #FFFFFF;
+
 }
